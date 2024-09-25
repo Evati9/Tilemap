@@ -1,0 +1,62 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Map_Candy.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Fountain_Candy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Fountain_Candy_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Home_Candy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Map_Candy.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 1288,
+                "y": 453.66666666666663
+            }
+        },
+        "Stairs_Candy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tile_Candy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/PC/source/repos/Tilemap/Tilemap_Candy/Content",
+    "map.height": 29,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "Map_Candy.tmx",
+        "Fountain_Candy.tsx",
+        "Home_Candy.tsx",
+        "Tile_Candy.tsx",
+        "Stairs_Candy.tsx",
+        "Fountain_Candy_1.tsx"
+    ],
+    "project": "tilemap_Candy.tiled-project",
+    "recentFiles": [
+        "Fountain_Candy_1.tsx",
+        "Stairs_Candy.tsx",
+        "Tile_Candy.tsx",
+        "Home_Candy.tsx",
+        "Fountain_Candy.tsx",
+        "Map_Candy.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
